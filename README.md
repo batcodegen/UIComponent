@@ -1,3 +1,2 @@
 # UIComponent
-
-![Alt text](https://github.com/batcodegen/UIComponent/blob/master/Components/src/assets/Ticket.jpg? =250x400)
+<img src="https://github.com/batcodegen/UIComponent/blob/master/Components/src/assets/Ticket.jpg" width="200" height="400">
